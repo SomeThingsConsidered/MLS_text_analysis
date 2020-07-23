@@ -1,5 +1,9 @@
 # MLS_text_analysis
-R code for Insights blog posts related to realtor comments contained in Multiple Listing Service (MLS) data
+R code used as part of [CoreLogic's Insights blog posts] (https://www.corelogic.com/insights-index.aspx) related to realtor comments contained in Multiple Listing Service (MLS) data.  Unfortunately, CoreLogic does not archive old posts.
+
+
+
+
 
 **check_corpus_entries.R** is code for finding a specific word in the set of listing agent remarks, and printing out the full listing containing that word
 
